@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.app.sys'
+compileSdk 34
+defaultConfig { applicationId 'com.app.sys'
+minSdk 24
+targetSdk 34 } }
